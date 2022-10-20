@@ -1,5 +1,5 @@
 ﻿// Daniel Decoito
-// 9-18-2022 2:34 PM
+// 10-20-2022 2:34 PM
 // Mini challenge 7 "Reverse it"
 // ask user to input either digits, letters, or both then return thier input foward and reversed
 // Peer reviewed by: Daniel Decoito - Really good app. worked well without issues and had good use of valadation along every choice. The Code itself was excellent, very concise. I really liked the use of difficulty input to dictate the random number range.
